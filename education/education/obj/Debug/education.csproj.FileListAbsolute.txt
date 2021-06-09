@@ -1,0 +1,9 @@
+E:\Marton 11A\education\education\bin\Debug\education.exe.config
+E:\Marton 11A\education\education\bin\Debug\education.exe
+E:\Marton 11A\education\education\bin\Debug\education.pdb
+E:\Marton 11A\education\education\obj\Debug\education.csprojResolveAssemblyReference.cache
+E:\Marton 11A\education\education\obj\Debug\education.Form1.resources
+E:\Marton 11A\education\education\obj\Debug\education.Properties.Resources.resources
+E:\Marton 11A\education\education\obj\Debug\education.csproj.GenerateResource.Cache
+E:\Marton 11A\education\education\obj\Debug\education.exe
+E:\Marton 11A\education\education\obj\Debug\education.pdb
